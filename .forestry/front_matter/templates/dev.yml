@@ -9,3 +9,4 @@ fields:
   label: title
 pages:
 - content/dev/python.md
+- content/dev/rust.md.md
