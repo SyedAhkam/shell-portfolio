@@ -1,6 +1,5 @@
 +++
 Title = "rust"
-draft = true
 title = "rust.md"
 
 +++
