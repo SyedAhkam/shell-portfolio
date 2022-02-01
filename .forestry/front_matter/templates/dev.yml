@@ -1,4 +1,9 @@
 ---
 label: dev
 hide_body: false
-fields: []
+fields:
+- name: Title
+  type: text
+  config:
+    required: false
+  label: title
