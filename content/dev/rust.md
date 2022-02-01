@@ -1,7 +1,7 @@
 +++
-Title = "python"
+Title = "rust"
 draft = true
 title = "rust.md"
 
 +++
-I do python
+I do rust
